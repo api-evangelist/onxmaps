@@ -1,8 +1,13 @@
 aid: onxmaps
 name: OnXMaps
-description: 'OnXMaps is a company surfaced as a portfolio company of bessemer-venture-partners and added
-  to the API Evangelist network as a stub for enrichment. Sector: consumer. This profile is a lead awaiting
-  the enrichment pipeline.'
+description: 'onX Maps (onXmaps) is a Montana-based GPS mapping technology company building
+  offline-capable navigation apps for outdoor recreation. Its product line spans onX Hunt
+  (hunting maps with public/private land boundaries, species and unit data), onX Offroad
+  (650K+ miles of off-road and overland trails), onX Backcountry (hiking, backpacking,
+  skiing and climbing, incorporating Mountain Project and MTB Project data), and onX Fish
+  (lake maps and fishing). The company is backed by Bessemer Venture Partners. onX does
+  not publish a public developer API; this profile is a company record enriched from its
+  public web, security, and trust surfaces rather than an API contract.'
 url: https://raw.githubusercontent.com/api-evangelist/onxmaps/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -10,12 +15,30 @@ x-backed-by:
 - bessemer-venture-partners
 x-tier: stub
 x-tier-reason: portfolio-lead
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-20'
 tags:
 - Company
 - Consumer
+- Mapping
+- GPS
+- Navigation
+- Outdoor Recreation
+- Location
+- Geospatial
+image: https://www.onxmaps.com/favicon.ico
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -23,5 +46,26 @@ maintainers:
 - FN: APIs.json
   email: info@apis.io
 common:
+- type: TrustCenter
+  url: security/onxmaps-trust-center.yml
+- type: Compliance
+  url: https://trust.onxmaps.com/
+- type: VulnerabilityDisclosure
+  url: security/onxmaps-vulnerability-disclosure.yml
+- type: Security
+  url: https://www.onxmaps.com/security-policy
+- type: SecurityTxt
+  url: well-known/onxmaps-security.txt
+- type: WellKnown
+  url: well-known/onxmaps-well-known.yml
+- type: DomainSecurity
+  url: security/onxmaps-domain-security.yml
+- type: Support
+  url: https://www.onxmaps.com/contact
 - type: Website
   url: https://www.onxmaps.com/
+x-enrichment:
+  date: '2026-07-20'
+  status: enriched
+  artifacts_added: 5
+  pass: local-v1
