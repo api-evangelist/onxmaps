@@ -57,6 +57,38 @@ maintainers:
 - FN: APIs.json
   email: info@apis.io
 common:
+- type: About
+  url: https://www.onxmaps.com/about
+- type: Blog
+  url: https://www.onxmaps.com/hunt/blog
+- type: Blog
+  url: https://www.onxmaps.com/engineering/blog
+- type: Contact
+  url: https://www.onxmaps.com/contact
+- type: Pricing
+  url: https://www.onxmaps.com/hunt/app/pricing
+- type: Login
+  url: https://webmap.onxmaps.com/
+- type: TermsOfService
+  url: https://www.onxmaps.com/tou
+- type: PrivacyPolicy
+  url: https://www.onxmaps.com/privacy-policy
+- type: SecurityPolicy
+  url: https://www.onxmaps.com/security-policy
+- type: Careers
+  url: https://www.onxmaps.com/careers
+- type: GitHubOrganization
+  url: https://github.com/onXmaps
+- type: LinkedIn
+  url: https://www.linkedin.com/company/onxmaps
+- type: X
+  url: https://twitter.com/onxmaps
+- type: YouTube
+  url: https://www.youtube.com/c/onxhunt
+- type: InvestorRelations
+  url: https://forgeglobal.com/onx_stock/
+- type: LLMsTxt
+  url: llms/onxmaps-llms.txt
 - type: TrustCenter
   url: security/onxmaps-trust-center.yml
 - type: Compliance
