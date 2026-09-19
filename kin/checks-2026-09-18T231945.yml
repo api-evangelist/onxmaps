@@ -2,16 +2,16 @@
 kin_checks:
   slug: onxmaps
   schema_version: 0.22.0
-  scored_at: '2026-09-17'
-  run_ts: 2026-09-17T233623
+  scored_at: '2026-09-18'
+  run_ts: 2026-09-18T231945
   note: Actionable checks (missed + partial) in `checks`, plus the ids that did not
     apply in `na`. Everything else in rubric/scoring-0.22.0.yml was earned; counts
     below let you verify that.
   counts:
     total: 136
-    earned: 13
+    earned: 22
     partial: 0
-    missed: 79
+    missed: 70
     na: 44
   checks:
   - id: multiple_apis
@@ -21,8 +21,6 @@ kin_checks:
   - id: base_url_per_api
     status: missed
   - id: well_known_published
-    status: missed
-  - id: llms_txt_published
     status: missed
   - id: apis_json_self_hosted
     status: missed
@@ -72,8 +70,6 @@ kin_checks:
     status: missed
   - id: webhooks_advertised
     status: missed
-  - id: github_org_present
-    status: missed
   - id: roadmap_present
     status: missed
   - id: examples_published
@@ -100,29 +96,15 @@ kin_checks:
     status: missed
   - id: agent_skill_present
     status: missed
-  - id: blog_present
-    status: missed
   - id: plans_present
     status: missed
   - id: plans_multiple
-    status: missed
-  - id: pricing_link
-    status: missed
-  - id: sign_up_present
-    status: missed
-  - id: terms_of_service
-    status: missed
-  - id: privacy_policy
     status: missed
   - id: finops_mapped
     status: missed
   - id: reg_oauth_scopes
     status: missed
   - id: reg_authentication_documented
-    status: missed
-  - id: reg_terms_of_service
-    status: missed
-  - id: reg_privacy_policy
     status: missed
   - id: reg_standards_conformance
     status: missed
