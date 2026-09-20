@@ -1,0 +1,21 @@
+{
+  "repo": "onxmaps",
+  "feeds": [
+    {
+      "source": "https://www.onxmaps.com/hunt/blog",
+      "feed_url": "https://www.onxmaps.com/hunt/blog",
+      "title": "",
+      "saved": 0,
+      "method": "none"
+    },
+    {
+      "source": "https://www.onxmaps.com/about",
+      "feed_url": "https://www.onxmaps.com/about",
+      "title": "",
+      "saved": 0,
+      "method": "none"
+    }
+  ],
+  "post_count": 0,
+  "fetched": "2026-09-19T20:17:39Z"
+}
