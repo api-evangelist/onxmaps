@@ -64,6 +64,89 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-OnXMaps is a company surfaced as a portfolio company of bessemer-venture-partners and added to the API Evangelist network as a stub for enrichment. Sector: consumer. This profile is a lead awaiting the enrichment pipeline.
+onX Maps (onXmaps) is a Montana-based GPS mapping technology company building offline-capable navigation apps for outdoor recreation. Its product line spans onX Hunt (hunting maps with public/private land boundaries, species and unit data), onX Offroad (650K+ miles of off-road and overland trails), onX Backcountry (hiking, backpacking, skiing and climbing, incorporating Mountain Project and MTB Project data), and onX Fish (lake maps and fishing). The company is backed by Bessemer Venture Partners. onX does not publish a public developer API; this profile is a company record enriched from its public web, security, and trust surfaces rather than an API contract.
 
-Backed by: bessemer-venture-partners — https://www.onxmaps.com/
+**Areas:** Company · Consumer · Mapping · GPS · Navigation · Outdoor Recreation · Location · Geospatial
+
+## OnXMaps on APIs.io
+
+Everything profiled for OnXMaps is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/onxmaps/](https://apis.io/providers/onxmaps/)** — or go straight to one of the APIs or properties below.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (3)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Onxmaps Domain Security](https://apis.io/security/onxmaps/onxmaps-domain-security/)
+- [Onxmaps Trust Center](https://apis.io/security/onxmaps/onxmaps-trust-center/)
+- [Onxmaps Vulnerability Disclosure](https://apis.io/security/onxmaps/onxmaps-vulnerability-disclosure/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://www.onxmaps.com/)
+- [Pricing](https://www.onxmaps.com/hunt/app/pricing)
+- [Support](https://www.onxmaps.com/contact)
+- [Blog](https://www.onxmaps.com/hunt/blog)
+- [Security](https://www.onxmaps.com/security-policy)
+- [Compliance](https://trust.onxmaps.com/)
+- [Terms of service](https://www.onxmaps.com/tou)
+- [Privacy policy](https://www.onxmaps.com/privacy-policy)
+- [GitHub](https://github.com/onXmaps)
+
+## API Evangelist rating
+
+**Kin Score 20.9** — emerging · rubric 0.24.0 · scored 2026-10-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 55.4 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 13.2 |
+| Developer ergonomics | 7.1 |
+| Access clarity | 53.9 |
+
+**Agent readiness 0.0** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 24.5** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/onxmaps/](https://apis.io/providers/onxmaps/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for OnXMaps: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/onxmaps/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
